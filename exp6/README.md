@@ -8,8 +8,8 @@
 -   **Class:** TE-AI&DS
 -   **Semester:** V
 -   **Experiment Number:** 6
--   **Student Name:** Vedant Kishor Mhatre
--   **Roll No.:** 72
+-   **Student Name:** Chirag Raut
+-   **Roll No.:** 85
 
 ## Title
 
