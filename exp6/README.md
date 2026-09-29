@@ -277,5 +277,5 @@ be nonlinear, so a linear model may not capture all important patterns.
 
 ## Author
 
-**Vedant Kishor Mhatre**\
-Roll No.: 72
+**Chirag Raut**\
+Roll No.: 85
